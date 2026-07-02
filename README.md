@@ -10,6 +10,21 @@
 
 [Speed Test](https://test.lmt.lv)
 
+
 `````````
 de-motocross.zone.id
+`````````
+
+`````````
+uk-motocross.zone.id
+`````````
+
+`````````
+fr-motocross.zone.id
+`````````
+
+`````````
+de-motocross.zone.id
+uk-motocross.zone.id
+fr-motocross.zone.id
 `````````

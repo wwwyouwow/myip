@@ -12,5 +12,6 @@ Weather🌧️⛈️🌨️
 
 Speed Test
 <https://simplevpn.speedtestcustom.com>
+
 Speed Test
-<https://test.lmt.lv>
+](https://test.lmt.lv)

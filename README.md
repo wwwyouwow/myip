@@ -9,3 +9,8 @@
 [Speed Test](https://simplevpn.speedtestcustom.com)
 
 [Speed Test](https://test.lmt.lv)
+
+
+,,,,,,,,,,,,,,
+de-motocross.zone.id
+,,,,,,,,,,,,,

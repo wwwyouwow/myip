@@ -1,14 +1,10 @@
-ProxyIP
-<https://proxyipvpn.us.ci>
+[ProxyIP](https://proxyipvpn.us.ci)
 
-IP
-<https://lite.ipcheck.ing>
+[My IP](https://lite.ipcheck.ing)
 
-IP
-<https://www.dnsleaktest.com>
+[My IP](https://www.dnsleaktest.com)
 
-Weather🌧️⛈️🌨️
-<https://www.weatherandradar.com>
+[Weather🌧️⛈️🌨️](https://www.weatherandradar.com)
 
 [Speed Test](https://simplevpn.speedtestcustom.com)
 

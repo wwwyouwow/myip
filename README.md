@@ -1,4 +1,4 @@
-[🌐Weather🌧️⛈️🌨️](https://www.weatherandradar.com)
+[🌐Weather](https://www.weatherandradar.com)
 
 [🌐ProxyIP](https://proxyipvpn.us.ci)
 

@@ -10,7 +10,6 @@ IP
 Weather🌧️⛈️🌨️
 <https://www.weatherandradar.com>
 
-Speed Test
-<https://simplevpn.speedtestcustom.com>
+[Speed Test](https://simplevpn.speedtestcustom.com)
 
 [Speed Test](https://test.lmt.lv)

@@ -8,6 +8,7 @@ v2rayvpnssh://subscription?eNpjYGBg6AwL8Hs0a-GNzTeW32y53cPIgABXGDNKSgqKrfT1ixLL9
 
 [🌐Speed Test](https://simplevpn.speedtestcustom.com)
 [🌐Speed Test](https://test.lmt.lv)
+[🌐Speed](https://speed.cloudflare.com)
 
 [🌐ProxyIP](https://proxyipvpn.us.ci)
 

@@ -1,4 +1,3 @@
-[🌐Weather](https://www.weatherandradar.com)
 [🌐My IP](https://lite.ipcheck.ing)
 [🌐DNS leak test](https://www.dnsleaktest.com)
 [🌐Cloudflare](https://www.v2rayvpn.de5.net)

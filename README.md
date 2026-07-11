@@ -6,15 +6,13 @@ v2rayvpnssh://subscription?eNpjYGBg6AwL8Hs0a-GNzTeW32y53cPIgABXGDNKSgqKrfT1ixLL9
 
 [🌐MyIP VPN](https://whoer.com/)
 
-[🌐MyIP VPN](https://ipwhois.io/)
+[🌐Speed Test](https://speed.cloudflare.com/)
 
 [🌐MyIP VPN](https://ip.v2rayvpn.de5.net)
 
 [🌐MyIP VPN](https://iplocation.io/my-location)
 
 [🌐My IP VPN](https://ipaddress.my/)
-
-[🌐Speed Test](https://speed.cloudflare.com/)
 
 [🌐ProxyIP](https://proxyipvpn.us.ci)
 `````````

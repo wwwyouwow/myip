@@ -10,7 +10,7 @@ v2rayvpnssh://subscription?eNpjYGBg6AwL8Hs0a-GNzTeW32y53cPIgABXGDNKSgqKrfT1ixLL9
 
 [🌐MyIP VPN](https://iplocation.io/my-location)
 
-[My IP VPN](https://ipaddress.my/)
+[🌐My IP VPN](https://ipaddress.my/)
 
 [🌐Speed Test](https://speed.cloudflare.com/)
 

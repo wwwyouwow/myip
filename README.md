@@ -5,7 +5,7 @@ v2rayvpnssh://subscription?eNpjYGBg6AwL8Hs0a-GNzTeW32y53cPIgABXGDNKSgqKrfT1ixLL9
 [🌐Cloudflare](https://www.v2rayvpn.de5.net)
 [🌐ProxyIP VPN](https://ip.v2rayvpn.de5.net)
 
-[Speed Test](https://speed.cloudflare.com/)
+[🌐Speed Test](https://speed.cloudflare.com/)
 
 [🌐ProxyIP](https://proxyipvpn.us.ci)
 `````````

@@ -24,9 +24,6 @@ fr-motocross.zone.id
 `````````
 
 
-
-
-
-
-
 [🌐IP VPN](https://www.zone.id)
+
+[🌐IP VPN](https://my.dnshe.com)
